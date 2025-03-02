@@ -15,7 +15,6 @@ I'm a passionate **Software Engineering student** at École Polytechnique de Lom
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -54,7 +53,7 @@ I'm a passionate **Software Engineering student** at École Polytechnique de Lom
 ## 📫 Connect with Me
 - **GitHub:** [0xEmron](https://github.com/0xEmron)
 - **Twitter/X:** [@Emron](#) 
-- **LinkedIn:** [www.linkedin.com/in/emmanuelevametofa](#)
+- **LinkedIn:** [linkedin.com/in/emron](www.linkedin.com/in/emmanuelevametofa)
 
 > 💡 "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
