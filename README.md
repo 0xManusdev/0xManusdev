@@ -15,6 +15,9 @@ I'm a passionate **Software Engineering student** at École Polytechnique de Lom
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=radixui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-EA4C89?style=for-the-badge&logo=framer&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -52,8 +55,8 @@ I'm a passionate **Software Engineering student** at École Polytechnique de Lom
 
 ## 📫 Connect with Me
 - **GitHub:** [0xEmron](https://github.com/0xEmron)
-- **Twitter/X:** [@Emron](#) 
-- **LinkedIn:** [linkedin.com/in/emron](www.linkedin.com/in/emmanuelevametofa)
+- **Twitter/X:** [@yourhandle](#) *(Replace with your actual handle if available)*
+- **LinkedIn:** [linkedin.com/in/emmanuel-evame](#) *(Replace with your profile if available)*
 
 > 💡 "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
