@@ -53,8 +53,8 @@ I'm a passionate **Software Engineering student** at École Polytechnique de Lom
 
 ## 📫 Connect with Me
 - **GitHub:** [0xEmron](https://github.com/0xEmron)
-- **Twitter/X:** [@yourhandle](#) *(Replace with your actual handle if available)*
-- **LinkedIn:** [linkedin.com/in/emmanuel-evame](#) *(Replace with your profile if available)*
+- **Twitter/X:** [@Emron](#) 
+- **LinkedIn:** [www.linkedin.com/in/emmanuelevametofa](#)
 
 > 💡 "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
