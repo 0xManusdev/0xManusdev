@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Emmanuel Evamé (0xEmron)!
+# 👋 Hey, I'm Emmanuel Evamé (0xManuu)!
 
 ## 🚀 About Me
 I'm a passionate **Software Engineering student** at École Polytechnique de Lomé, currently in my third year. My focus is on **web development**, cybersecurity, and transitioning towards **Web 3.0** technologies. 
