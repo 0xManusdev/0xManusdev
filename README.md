@@ -23,7 +23,7 @@
 
 <br />
 
-> *"Less but better" — minimalist design, clean code, scalable solutions.*
+> *"Less but better" minimalist design, clean code, scalable solutions.*
 
 </div>
 
