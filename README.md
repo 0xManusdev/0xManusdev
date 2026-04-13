@@ -2,7 +2,8 @@
 
 <br />
 
-<h1>Emmanuel, a.k.a thecode</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=32&duration=0&pause=0&color=8A8A8A&center=true&vCenter=true&repeat=false&width=300&lines=Emmanuel" alt="Emmanuel" />
+
 <p><b>Full-Stack Software Engineer</b></p>
 <p>Crafting premium digital experiences.<br>Merging clean UI/UX with robust engineering.</p>
 
@@ -55,7 +56,7 @@
 ### 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xmanusdev&show_icons=true&hide_border=true&theme=transparent&title_color=8A8A8A&text_color=8A8A8A&icon_color=8A8A8A&rank_icon=github" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xmanusdev&show_icons=true&hide_border=true&theme=transparent&title_color=8A8A8A&text_color=8A8A8A&icon_color=8A8A8A" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xmanusdev&hide_border=true&layout=compact&theme=transparent&title_color=8A8A8A&text_color=8A8A8A" height="160" alt="Top Languages" />
 </div>
 
