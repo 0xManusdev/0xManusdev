@@ -2,7 +2,7 @@
 
 <br />
 
-<h1>Emmanuel</h1>
+<h1>Emmanuel, a.k.a thecode</h1>
 <p><b>Full-Stack Software Engineer</b></p>
 <p>Crafting premium digital experiences.<br>Merging clean UI/UX with robust engineering.</p>
 
