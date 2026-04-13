@@ -33,9 +33,9 @@
 
 ### ⌘ Current Focus
 
-- 🏗️ **Building:** Expanding **[Rebase](https://github.com/0xmanusdev/rebase)** and developing **[Memograd](https://github.com/0xmanusdev/memograd)**.
-- 🧠 **Learning:** Advanced Frontend Architecture, AI integration, and Web3/Blockchain ecosystems.
-- 🤝 **Collaborating:** Open to open-source contributions and exciting freelance opportunities.
+- **Building:** Expanding **[Rebase](https://github.com/0xmanusdev/rebase)** and developing **[Memograd](https://github.com/0xmanusdev/memograd)**.
+- **Learning:** Advanced Frontend Architecture, AI integration, and Web3/Blockchain ecosystems.
+- **Collaborating:** Open to open-source contributions and exciting freelance opportunities.
 
 <br />
 
